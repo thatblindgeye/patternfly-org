@@ -1,0 +1,9 @@
+# Requirements for PatternFly Accessibility Documentation Generator
+
+# Anthropic Claude API client
+anthropic>=0.39.0
+
+# Optional: For enhanced features
+# requests>=2.31.0  # For web scraping component docs
+# beautifulsoup4>=4.12.0  # For parsing HTML docs
+# python-dotenv>=1.0.0  # For .env file support
